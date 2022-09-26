@@ -11,7 +11,8 @@ Space X advertises Falcon 9 rocket launches on its website with a cost of 62 mil
 
 ## Conclusion
 
-We can presume that: 
+We can presume that:
+
 The bigger the flight sum at a send off site, the more noteworthy the achievement rate at a send off site.
 
 Send off progress rate began to increment in 2013 till 2020. 
