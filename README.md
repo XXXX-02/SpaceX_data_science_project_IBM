@@ -12,8 +12,12 @@ Space X advertises Falcon 9 rocket launches on its website with a cost of 62 mil
 ## Conclusion
 
 We can presume that: 
-The bigger the flight sum at a send off site, the more noteworthy the achievement rate at a send off site. 
+The bigger the flight sum at a send off site, the more noteworthy the achievement rate at a send off site.
+
 Send off progress rate began to increment in 2013 till 2020. 
-Circles ES-L1, GEO, HEO, SSO, VLEO had the most achievement rate. 
-KSC LC-39A had the best send-offs of any destinations. .
-The Best model is Decision tree for this project
+
+Circles ES-L1, GEO, HEO, SSO, VLEO had the most achievement rate.
+
+KSC LC-39A had the best send-offs of any destinations.
+
+The Best model is Decision tree for this project.
